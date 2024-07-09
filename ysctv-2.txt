@@ -3,16 +3,27 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$�
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$可回看
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$可回看
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回看
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
-翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-无线财经资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
-无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$可回看
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$可回看
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$可回看
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$可回看
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$可回看
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$可回看
+江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8$可回看
+江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225613/index.m3u8$可回看
+浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8$可回看
+浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8$可回看
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回看
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$可回看
+南方卫视,http://180.141.28.176:4022/rtp/239.81.0.32:4056?Cf=cfss.cc
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回看
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$可回看
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$可回看
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$可回看
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$可回看
@@ -64,8 +75,6 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回看
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$可回看
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$可回看
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$可回看
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$可回看
@@ -74,8 +83,6 @@ CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$可回看
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$可回看
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$可回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$可回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$可回看
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$可回看
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$可回看
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8$可回看
@@ -85,7 +92,6 @@ CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$可回看
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$可回看
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$可回看
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$可回看
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$可回看
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$可回看
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$可回看
@@ -115,10 +121,6 @@ CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225728/index.m3u8$可回看
 东方卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8$可回看
 东方卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225735/index.m3u8$可回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8$可回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225613/index.m3u8$可回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8$可回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8$可回看
 深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8$可回看
 深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225739/index.m3u8$可回看
 湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8$可回看
