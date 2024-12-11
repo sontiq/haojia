@@ -322,6 +322,65 @@ CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+📡  香港频道p2p,#genre#
+翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65$LR•IPV4『线路1』
+翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2$LR•IPV4『线路2』
+翡翠台,mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2$LR•IPV4『线路3』
+翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65$LR•IPV4『线路4』
+翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd$LR•IPV4『线路5』
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043$LR•IPV4『线路1』
+PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043$LR•IPV4『线路2』
+PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12$LR•IPV4『线路3』
+无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0$LR•IPV4『线路1』
+无线新闻,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9$LR•IPV4『线路2』
+无线新闻,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0$LR•IPV4『线路3』
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6$LR•IPV4『线路1』
+TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6$LR•IPV4『线路2』
+TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d$LR•IPV4『线路3』
+HOY资讯,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc$LR•IPV4
+RTHK31,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f$LR•IPV4『线路1』
+RTHK31,mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f$LR•IPV4『线路2』
+RTHK32,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f$LR•IPV4『线路1』
+RTHK32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f$LR•IPV4『线路2』
+HOY TV,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4$LR•IPV4
+ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580$LR•IPV4『线路1』
+ViuTVsix,mitv://135.148.104.228:19806/b6f920891ad9473ca6f839df7616f580$LR•IPV4『线路2』
+ViuTVsix,mitv://135.148.104.228:19806/ea75ceca822f454bb858845559d5fc55$LR•IPV4『线路3』
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae$LR•IPV4『线路1』
+ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae$LR•IPV4『线路2』
+TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6$LR•IPV4『线路1』
+TVB星河,mitv://135.148.104.228:19806/e94f4c244af8464fb06eff4c9da250a6$LR•IPV4『线路2』
+TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c$LR•IPV4『线路3』
+Now新闻,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74$LR•IPV4
+黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c$LR•IPV4『线路1』
+黄金翡翠台,mitv://135.148.104.228:19806/1444d681fb1b44d4a20ff001c2bb2f7c$LR•IPV4『线路2』
+黄金翡翠台,mitv://135.148.104.228:19806/99b70f5afa114465aa463db0cfed6569$LR•IPV4『线路3』
+千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56$LR•IPV4『线路1』
+千禧经典台,mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56$LR•IPV4『线路2』
+天映经典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e$LR•IPV4『线路1』
+天映经典,mitv://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e$LR•IPV4『线路2』
+TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06$LR•IPV4『线路1』
+TVB娱乐新闻台,mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06$LR•IPV4『线路2』
+TVB娱乐新闻台,mitv://135.148.104.228:19806/05e767dba8fa48e9ba386ed231c94318$LR•IPV4『线路3』
+Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741$LR•IPV4『线路1』
+Thrill,mitv://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a$LR•IPV4『线路2』
+Now财经台,mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca$LR•IPV4『线路1』
+Now财经台,mitv://135.148.104.228:19806/415e15f33f8b4b5b95a400a406abd534$LR•IPV4『线路2』
+美亚电影台(粤语),mitv://135.148.104.228:19806/81ea49b841454e1c901ac507f231a581$LR•IPV4『线路1』
+美亚电影台(粤语),mitv://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581$LR•IPV4『线路2』
+明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路1』
+明珠台,mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路2』
+明珠台,mitv://135.148.104.228:19806/6ea5ab8d22f04024b3fac9bfb2b243aa$LR•IPV4『线路3』
+18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6$LR•IPV4『线路1』
+18台,mitv://135.148.104.228:19806/2cd619b81446414fb605daa1e86bebd6$LR•IPV4『线路2』
+澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf$LR•IPV4『线路1』
+澳门-MACAU,mitv://135.148.104.228:19806/a2bbc4a4feec4168804624c67fdea801$LR•IPV4『线路2』
+HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9$LR•IPV4
+澳门莲花,mitv://135.148.104.228:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8$LR•IPV4『线路1』
+澳门莲花,mitv://135.148.104.228:19806/f7ac1f0fdbe64fcc82cee29e0b590242$LR•IPV4『线路2』
+香港国际财经台,mitv://135.148.104.228:19806/b6594fa379204fc5b11ba4bc3fe7d932$LR•IPV4『线路1』
+香港国际财经台,mitv://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54$LR•IPV4『线路2』
+港台电视,P2p://generationnexxxt.com:19806/66ae0d840005a10ee8285dce7b7d2800$LR•IPV4
 AKTV,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
