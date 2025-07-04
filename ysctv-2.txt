@@ -1,9 +1,7 @@
 📽移动频道,#genre#
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-Viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$订阅源
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$订阅源
-无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$订阅源
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+翡翠台,http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$可回看
 CCTV2,http://mom.cloudns.be:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
