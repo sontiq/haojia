@@ -1,8 +1,12 @@
 📽移动频道,#genre#
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-Viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$订阅源
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$订阅源
-无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$订阅源
+翡翠台,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
+翡翠台,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv
+viutv,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
+viutv,https://stream1.freetv.fun/0347ee59bb56a5ce70fbee03ba8e68f7af58119c22a19bd9db2c566f97ff892e.ctv
+佛山城市生活,https://stream1.freetv.fun/1b0f275beb5ce261542783cf93b547a04ec75a77c617b77c3ec06a369ec60b1e.ctv
+now财经,https://stream1.freetv.fun/c55e54fb974932614f58638a26549f8d4a3605072fe1568ca4fedd96af5a64f9.m3u8
+now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.m3u8
+
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$可回看
 CCTV2,http://mom.cloudns.be:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
@@ -21,6 +25,35 @@ CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
+澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
+重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+TVBJ1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 广东珠江,http://113.117.216.109:8686/udp/239.77.0.114:5146$LR•IPV4『线路3』
 广东珠江,http://113.117.216.109:8686/udp/239.77.0.1:5146$LR•IPV4『线路4』
 广东珠江,http://14.19.198.125:9876/udp/239.77.0.114:5146$LR•IPV4『线路9』
@@ -303,7 +336,122 @@ CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-
+📡  香港频道p2p,#genre#
+翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65$LR•IPV4『线路1』
+翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2$LR•IPV4『线路2』
+翡翠台,mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2$LR•IPV4『线路3』
+翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65$LR•IPV4『线路4』
+翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd$LR•IPV4『线路5』
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043$LR•IPV4『线路1』
+PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043$LR•IPV4『线路2』
+PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12$LR•IPV4『线路3』
+无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0$LR•IPV4『线路1』
+无线新闻,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9$LR•IPV4『线路2』
+无线新闻,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0$LR•IPV4『线路3』
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6$LR•IPV4『线路1』
+TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6$LR•IPV4『线路2』
+TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d$LR•IPV4『线路3』
+HOY资讯,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc$LR•IPV4
+RTHK31,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f$LR•IPV4『线路1』
+RTHK31,mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f$LR•IPV4『线路2』
+RTHK32,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f$LR•IPV4『线路1』
+RTHK32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f$LR•IPV4『线路2』
+HOY TV,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4$LR•IPV4
+ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580$LR•IPV4『线路1』
+ViuTVsix,mitv://135.148.104.228:19806/b6f920891ad9473ca6f839df7616f580$LR•IPV4『线路2』
+ViuTVsix,mitv://135.148.104.228:19806/ea75ceca822f454bb858845559d5fc55$LR•IPV4『线路3』
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae$LR•IPV4『线路1』
+ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae$LR•IPV4『线路2』
+TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6$LR•IPV4『线路1』
+TVB星河,mitv://135.148.104.228:19806/e94f4c244af8464fb06eff4c9da250a6$LR•IPV4『线路2』
+TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c$LR•IPV4『线路3』
+Now新闻,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74$LR•IPV4
+黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c$LR•IPV4『线路1』
+黄金翡翠台,mitv://135.148.104.228:19806/1444d681fb1b44d4a20ff001c2bb2f7c$LR•IPV4『线路2』
+黄金翡翠台,mitv://135.148.104.228:19806/99b70f5afa114465aa463db0cfed6569$LR•IPV4『线路3』
+千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56$LR•IPV4『线路1』
+千禧经典台,mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56$LR•IPV4『线路2』
+天映经典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e$LR•IPV4『线路1』
+天映经典,mitv://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e$LR•IPV4『线路2』
+TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06$LR•IPV4『线路1』
+TVB娱乐新闻台,mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06$LR•IPV4『线路2』
+TVB娱乐新闻台,mitv://135.148.104.228:19806/05e767dba8fa48e9ba386ed231c94318$LR•IPV4『线路3』
+Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741$LR•IPV4『线路1』
+Thrill,mitv://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a$LR•IPV4『线路2』
+Now财经台,mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca$LR•IPV4『线路1』
+Now财经台,mitv://135.148.104.228:19806/415e15f33f8b4b5b95a400a406abd534$LR•IPV4『线路2』
+美亚电影台(粤语),mitv://135.148.104.228:19806/81ea49b841454e1c901ac507f231a581$LR•IPV4『线路1』
+美亚电影台(粤语),mitv://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581$LR•IPV4『线路2』
+明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路1』
+明珠台,mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路2』
+明珠台,mitv://135.148.104.228:19806/6ea5ab8d22f04024b3fac9bfb2b243aa$LR•IPV4『线路3』
+18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6$LR•IPV4『线路1』
+18台,mitv://135.148.104.228:19806/2cd619b81446414fb605daa1e86bebd6$LR•IPV4『线路2』
+澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf$LR•IPV4『线路1』
+澳门-MACAU,mitv://135.148.104.228:19806/a2bbc4a4feec4168804624c67fdea801$LR•IPV4『线路2』
+HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9$LR•IPV4
+澳门莲花,mitv://135.148.104.228:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8$LR•IPV4『线路1』
+澳门莲花,mitv://135.148.104.228:19806/f7ac1f0fdbe64fcc82cee29e0b590242$LR•IPV4『线路2』
+香港国际财经台,mitv://135.148.104.228:19806/b6594fa379204fc5b11ba4bc3fe7d932$LR•IPV4『线路1』
+香港国际财经台,mitv://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54$LR•IPV4『线路2』
+港台电视,P2p://generationnexxxt.com:19806/66ae0d840005a10ee8285dce7b7d2800$LR•IPV4
+AKTV,#genre#
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
 
 🌏港澳台频道,#genre#
